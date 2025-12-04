@@ -240,31 +240,6 @@ Gunakan kode promo saat checkout:
 
 ---
 
-## 📸 Screenshots
-
-### Loading Screen
-![Loading Screen](screenshots/loading.png)
-
-### Splash Screen dengan Fireworks
-![Splash Screen](screenshots/splash.png)
-
-### Dashboard Admin
-![Dashboard](screenshots/dashboard.png)
-
-### Grafik Analisis
-![Charts](screenshots/charts.png)
-
-### Manajemen Menu
-![Menu](screenshots/menu.png)
-
-### Kasir - Pesanan
-![Kasir](screenshots/kasir.png)
-
-### Pelanggan - Order
-![Pelanggan](screenshots/pelanggan.png)
-
----
-
 ## 🔧 Troubleshooting
 
 ### Database Error "no such table"
@@ -400,25 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-Jika ada pertanyaan atau issue:
-1. Check [Issues](https://github.com/Bambang-code/cafe-management-system/issues)
-2. Create new issue dengan label yang sesuai
-3. Email ke: support@example.com
-
----
-
 **⭐ Jika project ini membantu, jangan lupa beri star! ⭐**
-
----
-
-## 📊 Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/Bambang-code/cafe-management-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Bambang-code/cafe-management-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Bambang-code/cafe-management-system)
-![GitHub license](https://img.shields.io/github/license/Bambang-code/cafe-management-system)
 
 ---
 
