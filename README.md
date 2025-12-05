@@ -359,13 +359,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Developer
-
-**Your Name**
-- GitHub: [@Bambang-code](https://github.com/Bambang-code)
-
----
-
 ## 🙏 Acknowledgments
 
 - Flutter Team untuk framework yang luar biasa
